@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# virtual environments
+venv/
+.venv/
+env/
+
+# logs
+*.log
+
+# AI/editor local configs
+.claude/
+.codex/
+.vscode/
+
+# secrets / API keys
+.env
+*.key
+*.pem
+config.local.json
